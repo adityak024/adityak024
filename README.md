@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst || Data, Dashboards & Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Learning+AWS;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Learning+AWS;" alt="Typing SVG" />
 </p>
 
 ---
