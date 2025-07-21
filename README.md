@@ -5,7 +5,7 @@
 ---
 
 #### 🔍 About Me
-I'm a data-driven professional with 3.5+ years of experience in production planning at Tata Motors, where I worked in the Engine Division handling material management, customer coordination, and delivery planning. I’m now channeling my analytical mindset into data analytics to generate insights and solve business problems.
+I'm a data-driven professional with 4 years of experience in production planning at Tata Motors, where I worked in the Engine Division handling material management, customer coordination, and delivery planning. I’m now channeling my analytical mindset into data analytics to generate insights and solve business problems.
 
 ---
 
@@ -23,19 +23,18 @@ Here are some of the projects I've worked on:
 - 🔍 **Pizza Sales Analysis**  
   Used SQL and Power BI to analyze sales, revenue trends, and KPIs from a fictional pizza company's dataset.
 
-- 📦 **Inventory Management Dashboard**  
-  Built using Excel and Power BI to visualize stock status, reorder levels, and lead times.
+- 📦 **Super Mart Sales Analysis**  
+  Super Mart achieved $1.6M sales, $175K profit, and sold 22K units, with the West region and Consumer segment leading. COD was the top payment mode. Office Supplies and Phones excelled in sales. Standard shipping dominated. Returns were 5,901, and average delivery was four days, indicating operational improvement needs..
 
 - ⏱️ **Production Time Efficiency**  
   Cleaned and analyzed factory data in Python to calculate machine utilization and process bottlenecks.
 
-*(More projects coming soon!)*
 
 ---
 
 #### 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-982a8a256/)
-- 📧 adityakumar.work@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/aditya-2412ak)
+- 📧 aditya7320kumar@gmail.com
 - 🌍 Based in **Jamshedpur, India**
 
 ---
