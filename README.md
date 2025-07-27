@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Data Analyst || Data, Dashboards & Python Enthusiast</h3>
+<h3 align="center">Analyzing, Visualizing & Automating Data Workflows</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Learning+AWS;" alt="Typing SVG" />
